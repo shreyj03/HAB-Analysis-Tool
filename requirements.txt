@@ -1,0 +1,3 @@
+cyfi>=1.1.5
+pandas>=1.5.0
+matplotlib>=3.5.0
