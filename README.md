@@ -170,6 +170,10 @@ conda install -c conda-forge cyfi -y
 pip install matplotlib
 ```
 
+## Acknowledgments
+
+This tool was built as a project for the **Justice Media Computational Journalism Co-Lab** (HUB XC 473) at Boston University under the guidance of **Professor Brooke Williams** and **Professor Anthony Chamberas**.
+
 ## References
 
 ### CyFi
